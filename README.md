@@ -8,7 +8,6 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - [Setup Instructions](#Setup-Instructions)
 - [Game Logic](#Game-Logic)
 - [Screenshots](#Screenshots)
-- [Contributions](#Contributions)
 
 ## Features
 - Two-player functionality (X and O).
@@ -41,6 +40,3 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 ![Screenshot 2024-10-11 185315](https://github.com/user-attachments/assets/8ec4f894-351b-4ba4-a17c-d8572333fbae)
 ![Screenshot 2024-10-11 174644](https://github.com/user-attachments/assets/bf417d7f-4ce9-479d-9470-85c652e3a0a0)
 ![Screenshot 2024-10-11 185340](https://github.com/user-attachments/assets/c8b95814-f62e-4b46-99ee-1f9cf7dd309d)
-
-## Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you'd like to contribute.
