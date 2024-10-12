@@ -7,6 +7,7 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - [How to Play](#How-to-Play)
 - [Setup Instructions](#Setup-Instructions)
 - [Game Logic](#Game-Logic)
+- [Demo](#demo)
 - [Screenshots](#Screenshots)
 
 ## Features
@@ -33,6 +34,9 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - **Winning Conditions** : The game checks for eight possible winning combinations (three in a row, column, or diagonal).
 - **Draw Condition** : If all cells are filled and no player has won, the game declares a draw.
 - **Turn Switching** : After each move, the turn switches between Player X and Player O.
+
+## Demo
+[Live Demo](https://drive.google.com/file/d/11PNDjzIbkonf51U5hZrQA1bFjgRpAj5R/view?usp=sharing)
 
 ## Screenshots
 ![Screenshot 2024-10-11 174334](https://github.com/user-attachments/assets/a07f6fe7-1f65-45ea-9ec5-86ad5a7ff93d)
